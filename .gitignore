@@ -7,6 +7,7 @@ build/
 __pycache__
 .pytest_cache
 __init__.py
-archivo.ebnf
 desktop.ini
-lexer.spec
+archivo.spc
+lexer.exe
+ERRORS.py
